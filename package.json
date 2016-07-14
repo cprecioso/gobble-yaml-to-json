@@ -1,0 +1,15 @@
+{
+  "name": "gobble-yaml-to-json",
+  "version": "1.0.0",
+  "description": "Converts YAML documents to JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["gobble", "gobble-plugin", "yaml", "yml", "json"],
+  "author": "Carlos Precioso",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.6.1"
+  }
+}
